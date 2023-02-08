@@ -1,0 +1,38 @@
+form {
+    border: solid green 2.5px;
+    width: 600px;
+    margin: 80px auto;
+    text-align: center;
+    padding: 0 0 10px 0;
+}
+
+#bottom_hr_Id {
+    border: solid green 3px;
+}
+
+#aboveLogin_hr_Id {
+    width: 300;
+}
+
+#upper_hr_id {
+    width: 430px;
+}
+
+.inputs {
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+
+label {
+    font-size: 20px;
+}
+
+.text_inputs {
+    width: 200px;
+    height: 20px;
+}
+
+.displayMessage {
+    font-size: 1.2rem;
+}
